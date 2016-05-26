@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+
+/*Dashboard Navbar mobile*/
+@media (max-width: 767px)
+   .sidebar {
+      display:block;
+   }
+
+/*Offers page*/
+.photo {
+  height: 250px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
